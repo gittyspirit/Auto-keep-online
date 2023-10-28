@@ -6,7 +6,7 @@ const cron = require('node-cron');
 const urls = [
   'https://www.baidu.com',
   'https://www.google.com',
-  'https://false-momentous-snowflake.glitch.me',
+  'https://sturdy-universal-allosaurus.glitch.me',
   // 添加更多的URL
 ];
 
